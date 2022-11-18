@@ -1,1 +1,3 @@
 Therd file
+
+New line in therd file
